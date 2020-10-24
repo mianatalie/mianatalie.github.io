@@ -1,0 +1,19 @@
+body {
+  color: purple; 
+  margin: 10px; 
+}
+.topnav{
+  position: relative;
+  background-color:#f2e6ff;
+}
+.topnav a{
+  float: left;
+  text-align: center;
+}
+.topnav a:hover{
+  background-color:#9494b8
+  color: black; 
+}
+.topnav-right{
+  float: right;
+}
